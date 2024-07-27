@@ -1,8 +1,7 @@
 - 👋 Hi, I’m ABHISHEK PAREEK
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning advanced javascript
-- MATHERCH.D ABHISHEK FORM IS CHILDHOOD.
-- BHEN KA L...
+  
 
 
 
